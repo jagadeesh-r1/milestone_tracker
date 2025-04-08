@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/578cf075-0c0e-4b65-8021-005079941afb)
+
 # Kid Spark Milestones
 
 A comprehensive tool for tracking and visualizing child development milestones across cognitive, motor, and social categories.
